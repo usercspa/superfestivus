@@ -1,4 +1,4 @@
-# superfestivus
+# Festivus Frank
 The concept of Festivus is unique but sadly not many know about it. Fear not, Fesitivous Frank is here to the rescue! 
 
 We have created this game on the lines of the ever-classic and nostalgic SuperMario and gave it our own twist by basing it on the theme of Festivus.

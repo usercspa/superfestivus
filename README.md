@@ -15,7 +15,15 @@ Down---> Move down
 Right arrow-->Move right
 Left arrow--> Move to the right
 
+
+
+
+
 We hope you enjoy the game as much as we did making it.
+
+
+
 
 You can try the .exe file of the game, by downloading it from here :
 https://drive.google.com/drive/folders/1tl_4ZtKhVMVjxxbNIpQf0JqNiBbIXGmj?usp=sharing
+
